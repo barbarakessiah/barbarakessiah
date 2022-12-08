@@ -15,7 +15,7 @@
   <img align="center" alt="barbara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="barbara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="barbara" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/120122819/206540088-0b573684-bc81-49a1-a1e0-f7092540c283.png">
+  <img align="left" alt="barbara" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/120122819/206540088-0b573684-bc81-49a1-a1e0-f7092540c283.png">
 </div>
   
   ##
@@ -24,6 +24,6 @@
   <a href="https://instagram.com/barbara.kess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorabarbara.kessiah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  </a>
 </div>
 
