@@ -14,7 +14,7 @@
    <img align="center" alt="barbara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="barbara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="barbara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="left" alt="barbara" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/120122819/206540088-0b573684-bc81-49a1-a1e0-f7092540c283.png">
+  <img align="left" alt="barbara" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/4cc600fb1d7297f85226058f66e09299.gif">
 </div>
   
   ##
